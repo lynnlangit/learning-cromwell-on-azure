@@ -1,0 +1,6 @@
+{
+ "WorkflowUrl": "https://<address>.blob.core.windows.net/inputs/test.wdl",
+ "WorkflowInputsUrl": "https://<address>.blob.core.windows.net/inputs/test.json",
+ "WorkflowOptionsUrl": null,
+ "WorkflowDependenciesUrl": null
+}

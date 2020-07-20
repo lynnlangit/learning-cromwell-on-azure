@@ -1,0 +1,7 @@
+{
+ "WorkflowUrl": "https://coa8db363149fe2db.blob.core.windows.net/inputs/hello/test.wdl",
+ "WorkflowInputsUrl": "https://coa8db363149fe2db.blob.core.windows.net/inputs/hello/test.json",
+ "WorkflowOptionsUrl": null,
+ "WorkflowDependenciesUrl": null
+}
+
