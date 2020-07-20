@@ -8,6 +8,8 @@ There are a number of tools and interfaces for performance tuning Cromwell-on-Az
     - Application Map View
     - Application Map Filtered Performance View
 - Azure Batch --> Azure Batch usage
+
+![Batch](../images/batch.png)
 - TES --> CosmosDB job task log query tool (uses SQL API)
 - BLOB store --> use Container Viewer in Azure Portal
 
