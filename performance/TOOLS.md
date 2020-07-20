@@ -16,12 +16,18 @@ When you drill into the Application Map view, you generated a Filtered Performan
 
 ### Azure Batch 
 
-Monitor Azure Batch usage via the WebUI.  This shows resources used by nodes in the virtual cluster.  Node health is also shown here.
+Monitor Azure Batch usage via the WebUI.  This shows resources used by nodes in the virtual cluster.  Node health is also shown here.  
+
+NOTE: Azure Batch Tool (linked) only works with Windows OS.
 
 ![Batch](../images/batch.png)
 
 ---
 ### Other Monitoring 
 - TES --> CosmosDB job task log query tool (uses SQL API)
+    - shows by workflow, `INITIALIZING`, `SYSTEM_FAILURE`, `SUCCESSFUL`, etc...
+    - shows configuration for workflows, tasks...
 - BLOB store --> use Container Viewer in Azure Portal
+    - integrated viewer --> you can upload files ONLY
+    - associated viewer --> you can upload/delete folders OR files
 
