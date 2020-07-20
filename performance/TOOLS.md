@@ -16,9 +16,7 @@ When you drill into the Application Map view, you generated a Filtered Performan
 
 ### Azure Batch 
 
-Monitor Azure Batch usage via the WebUI.  This shows resources used by nodes in the virtual cluster.  Node health is also shown here.  
-
-NOTE: Azure Batch Tool (linked) only works with Windows OS.
+Monitor Azure Batch usage via the WebUI.  This shows resources used by nodes in the virtual cluster.  Node health is also shown here.  NOTE: Azure Batch Explorer tool (linked in Azure portal) only works with Windows OS.
 
 ![Batch](../images/batch.png)
 
