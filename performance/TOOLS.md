@@ -2,6 +2,8 @@
 
 There are a number of tools and interfaces for performance tuning Cromwell-on-Azure workloads.  These include the following:
 
+![App Map](../images/map.png)
+
 - Application --> Application Insights
     - Application Map View
     - Application Map Filtered Performance View
